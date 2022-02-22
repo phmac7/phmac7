@@ -38,7 +38,8 @@
 <div>
 <h2 align="left">👨‍💻 Knowledge 👨‍💻</h2>
 
-<div align="center">
+<div align="left">
+<img align="right" src= "assets/killua.gif" width="280" height="280">
 <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="70" alt ="html5"></a>
 <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="70" alt ="css"></a>
 <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="70" alt ="bootstrap"></a>
@@ -56,7 +57,6 @@
 <br>
 <br>
 <h2> Thanks for reading! I hope you like my projects! </h2>
-<img align="right" src= assets/killua.gif>
 
 
 </div>
