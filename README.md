@@ -39,12 +39,13 @@
 <h2 align="left">👨‍💻 Knowledge 👨‍💻</h2>
 
 <div align="center">
-<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="70" alt ="html5"></a>
+<a href="#" alt ="html5"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="70" alt ="html5"></a>
 <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="70" alt ="css"></a>
 <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="70" alt ="bootstrap"></a>
+<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="70" alt ="sass"></a>
 <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="70" alt ="javascript"></a>
 <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="70" alt ="nodejs"></a>
-<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="70" alt ="javascript"></a>
+<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="70" alt ="git"></a>
 
 </div>
 
