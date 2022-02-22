@@ -1,5 +1,3 @@
-<body>
-
 <div align="center">
 <h1 align="center"> Welcome to my profile </h1>
 <img src="assets/zenitsu.gif" alt="gif zenitsu" height="300" width="600">
@@ -47,5 +45,5 @@
 
 
 
-}</div>
+</div>
 </body>
