@@ -39,7 +39,7 @@
 <h2 align="left">👨‍💻 Knowledge 👨‍💻</h2>
 
 <div align="left">
-<img align="right" src= "assets/killua.webp" width="320" height="320">
+<img align="right" src= "assets/killua.webp" width="350" height="360">
 <br>
 <br>
 <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="70" alt ="html5"></a>
@@ -55,6 +55,8 @@
 </div>
 
 <div>
+<br>
+<br>
 <br>
 <br>
 <br>
