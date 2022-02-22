@@ -13,7 +13,6 @@
 
 
 <p> My name is Pedro, 24 years old and i'm writing this from Brazil</p>
-<br>
 <h3>Hobbies</h3>
 <ul>
     <li> Music </li>
@@ -33,8 +32,6 @@
 
 
 </div>
-<br>
-<br>
 <br>
 <br>
 
