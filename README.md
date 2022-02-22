@@ -41,7 +41,7 @@
 <div align="center">
 <img src="https://<span></span>github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="70" alt ="html5">
 <img src="https://<span></span>github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="70" alt ="css">
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="70" alt ="bootstrap">
+<img src="https:\/github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="70" alt ="bootstrap">
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="70" alt ="javascript">
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="70" alt ="nodejs">
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="70" alt ="javascript">
