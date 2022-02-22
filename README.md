@@ -12,7 +12,7 @@
 <img align="right" src="assets/me.jpg" alt="me!" width="350" height="350">
 
 
-<p> My name is Pedro, i'm 24 years old and writing this from Rio, Brazil! 🍻</p>
+<p> My name is Pedro, i'm 24 years old and i'm writing this from Rio, Brazil! 🍻</p>
 <h3> Hobbies 💜</h3>
 <ul>
     <li> 🎵 Music </li>
@@ -58,7 +58,7 @@
 <br>
 <br>
 <br>
-<h2> Thanks for reading! I hope you like my projects! </h2>
+<h2> ✨ Thanks for reading! ✨ </h2>
 
 
 </div>
