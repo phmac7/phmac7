@@ -12,7 +12,7 @@
 <img align="right" src="assets/me.jpg" alt="me!" width="350" height="350">
 
 
-<p> My name is Pedro, 24 years old and i'm writing this from Brazil 🍻</p>
+<p> My name is Pedro, i'm 24 years old and writing this from Rio, Brazil! 🍻</p>
 <h3> Hobbies 💜</h3>
 <ul>
     <li> 🎵 Music </li>
@@ -38,7 +38,7 @@
 <div>
 <h2 align="left">👨‍💻 Knowledge 👨‍💻</h2>
 
-<img>
+<svg xlink:href="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg" width="100">
 
 
 
