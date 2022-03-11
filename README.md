@@ -54,6 +54,8 @@
 <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="70" alt ="git"></a>
 <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="70" alt ="github"></a>
 <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="70" alt ="mongoDB"></a>
+<br>
+<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="70" alt ="React"></a>
 </div>
 
 <div>
