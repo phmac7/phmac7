@@ -57,7 +57,9 @@
 
 <div>
 <br>
-<h2> Some Projects </h2>
+<br>
+<br>
+<h2> 💻 Some Projects 💻</h2>
 <table>
     <tr>
         <td>
