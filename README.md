@@ -80,7 +80,7 @@
             <img src="assets/projects/ecommerce-mob.gif" height="430">
             <p><b>E-commerce product page w/ cart functionality</b></p>
             <p><b>React, SASS, JS, Framer-motion </b></p>
-            <a href='https://github.com/phmac7/Ecommerce-Product-Page'>Repository</a>
+            <a href='https://github.com/phmac7/Ecommerce-Product-Page'>Repository</a><br>
             <a href='https://phmac7-ecommerceproduct.app/'>LIVE SITE</a>
         </td>
     </tr>
