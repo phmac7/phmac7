@@ -1,6 +1,5 @@
 <div align="center">
 <h1 align="center"> 👋 Welcome to my profile! 👋 </h1>
-<img src="assets/zenitsu.gif" alt="gif zenitsu" height="300" width="600">
 </div>
 <br>
 
@@ -40,8 +39,6 @@
 
 <div align="left">
 <img align="right" src= "assets/killua.webp" width="350" height="360">
-<br>
-<br>
 <br>
 <br>
 <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="70" alt ="html5"></a>
