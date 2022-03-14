@@ -60,9 +60,32 @@
 
 <div>
 <br>
-<br>
-<br>
-<br>
+<h2> Some Projects </h2>
+<table>
+    <tr>
+        <td>
+            <h3>Space Tourism</h3>
+            <img src="assets/projects/space.gif" width="580" align="top">
+            <img src="assets/projects/space-mob.gif" height="430">
+            <p><b>Multi-page website created with React with some animations</b></p>
+            <p><b>React, CSS, JS, Framer-motion, React-Router-Dom</b></p>
+            <a href='https://github.com/phmac7/Space-Tourism'>Repository</a><br>
+            <a href='https://phmac7-space.netlify.app/'>LIVE SITE</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <h3>E-commerce Product</h3>
+            <img src="assets/projects/ecommerce.gif" width="580" align="top">
+            <img src="assets/projects/ecommerce-mob.gif" height="430">
+            <p><b>E-commerce product page w/ cart functionality</b></p>
+            <p><b>React, SASS, JS, Framer-motion </b></p>
+            <a href='https://github.com/phmac7/Ecommerce-Product-Page'>Repository</a>
+            <a href='https://phmac7-ecommerceproduct.app/'>LIVE SITE</a>
+        </td>
+    </tr>
+</table>
+
 <br>
 <h2> ✨ Thanks for reading! ✨ </h2>
 
