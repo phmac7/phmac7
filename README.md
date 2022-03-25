@@ -66,7 +66,7 @@
             <h3>Space Tourism</h3>
             <img src="assets/projects/space.gif" width="580" align="top">
             <img src="assets/projects/space-mob.gif" height="430">
-            <p><b>Multi-page website created with React with some animations</b></p>
+            <p><b>Multi-page website created with React + Framer-motion</b></p>
             <p><b>React, CSS, JS, Framer-motion, React-Router-Dom</b></p>
             <a href='https://github.com/phmac7/Space-Tourism'>Repository</a><br>
             <a href='https://phmac7-space.netlify.app/'>LIVE SITE</a>
