@@ -11,7 +11,7 @@
 <img align="right" src="assets/me.jpg" alt="me!" width="350" height="350">
 
 
-<p> My name is Pedro, i'm 24 years old and i'm writing this from Rio, Brazil! 🍻</p>
+<p> My name is Pedro, i'm 25 years old and i'm writing this from Rio, Brazil! 🍻</p>
 <h3> Hobbies 💜</h3>
 <ul>
     <li> 🎵 Music </li>
@@ -22,11 +22,10 @@
     <li> i also love pets! 😸</li>
 </ul>
 
-<h3> 📚 Currently Learning 📚</h3>
+<h3> 📚 Currently Studying 📚</h3>
 
 <ul>
-    <li> 📱 Front-end 💻 </li>
-    <li> 📱 Web Development 💻 </li>
+    <li> 📱 Nextjs & ReactJs 💻 </li>
 </ul>
 
 
@@ -53,6 +52,7 @@
 <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="70" alt ="mongoDB"></a>
 <br>
 <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="70" alt ="React"></a>
+<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="70" alt ="React"></a>
 </div>
 
 <div>
