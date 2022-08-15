@@ -25,7 +25,8 @@
 <h3> 📚 Currently Studying 📚</h3>
 
 <ul>
-    <li> 📱 Nextjs & ReactJs 💻 </li>
+    <li> 💻 Nextjs & ReactJs 💻 </li>
+    <li> 📱 React Native 📱 </li>
 </ul>
 
 
