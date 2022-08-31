@@ -53,7 +53,9 @@
 <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="70" alt ="mongoDB"></a>
 <br>
 <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="70" alt ="React"></a>
-<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="70" alt ="React"></a>
+<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="70" alt ="Typescript"></a>
+<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="70" alt ="Next"></a>
+
 </div>
 
 <div>
