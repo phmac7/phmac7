@@ -25,8 +25,8 @@
 <h3> 📚 Currently Studying 📚</h3>
 
 <ul>
-    <li> 💻 Nextjs & ReactJs 💻 </li>
-    <li> 📱 React Native 📱 </li>
+    <li> 💻 Nextjs, nodeJS 💻 </li>
+    <li> Headless CMS: Strappi </li>
 </ul>
 
 
