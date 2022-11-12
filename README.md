@@ -26,7 +26,7 @@
 
 <ul>
     <li> 💻 Nextjs, nodeJS 💻 </li>
-    <li> Headless CMS: Strappi </li>
+    <li> Headless CMS: Strapi & Contentful </li>
 </ul>
 
 
@@ -55,6 +55,7 @@
 <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="70" alt ="React"></a>
 <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="70" alt ="Typescript"></a>
 <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="70" alt ="Next"></a>
+    <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="70" alt ="Tailwind"></a>
 
 </div>
 
