@@ -8,7 +8,7 @@
 <br>
 <br>
 
-<img align="right" src="assets/me.jpg" alt="me!" width="350" height="350">
+<img align="right" src="assets/me1.HEIC" alt="me!" width="350" height="350">
 
 
 <p> My name is Pedro, i'm 25 years old and i'm writing this from Rio, Brazil! 🍻</p>
