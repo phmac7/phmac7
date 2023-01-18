@@ -25,7 +25,7 @@
 <h3> 📚 Currently Studying 📚</h3>
 
 <ul>
-    <li> 💻 Nextjs, nodeJS 💻 </li>
+    <li> 💻 Nextjs, nodeJS, vue 💻 </li>
     <li> Headless CMS: Strapi & Contentful </li>
 </ul>
 
@@ -35,26 +35,26 @@
 <br>
 
 <div>
-<h2 align="left">👨‍💻 Knowledge 👨‍💻</h2>
+<h2 align="left">👨‍💻 Technologies 👨‍💻</h2>
 
 <div align="left">
 <img align="right" src= "assets/killua.webp" width="350" height="360">
 <br>
 <br>
-<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="70" alt ="html5"></a>
-<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="70" alt ="css"></a>
-<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="70" alt ="bootstrap"></a>
-<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="70" alt ="sass"></a>
+<a href="[#](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg)"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="70" alt ="html5"></a>
+<a href="[#](https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg)"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="70" alt ="css"></a>
+<a href="[#](https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg)"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="70" alt ="bootstrap"></a>
+<a href="[#](https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg)"><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="70" alt ="sass"></a>
 <br>
-<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="70" alt ="javascript"></a>
-<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="70" alt ="nodejs"></a>
-<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="70" alt ="git"></a>
-<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="70" alt ="github"></a>
-<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="70" alt ="mongoDB"></a>
+<a href="[#](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg)"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="70" alt ="javascript"></a>
+<a href="[#](https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg)"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="70" alt ="nodejs"></a>
+<a href="[#](https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg)"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="70" alt ="git"></a>
+<a href="[#](https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg)"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="70" alt ="github"></a>
+<a href="[#](https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg)"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="70" alt ="mongoDB"></a>
 <br>
-<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="70" alt ="React"></a>
-<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="70" alt ="Typescript"></a>
-<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="70" alt ="Next"></a>
+<a href="[#](https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg)"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="70" alt ="React"></a>
+<a href="[#](https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg)"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="70" alt ="Typescript"></a>
+<a href="[#](https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg)"><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="70" alt ="Next"></a>
     <a href="[#](https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg)"><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="70" alt ="Tailwind"></a>
 
 </div>
