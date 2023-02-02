@@ -11,7 +11,9 @@
 <img align="right" src="assets/IMG_48489.jpg" alt="me!" width="350" height="350">
 
 
-<p> My name is Pedro, i'm 25 years old and i'm writing this from Rio, Brazil! 🏳️‍🌈🍻</p>
+<p> My name is Pedro, i'm 25 years old! 🏳️‍🌈</p>
+<p> Rio, Brazil 🍻</p>
+
 <h3> Hobbies 💜</h3>
 <ul>
     <li> 🎵 Music </li>
