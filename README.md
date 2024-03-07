@@ -24,12 +24,6 @@
     <li> i also love pets! 😸</li>
 </ul>
 
-<h3> 📚 Currently Studying 📚</h3>
-
-<ul>
-    <li> 💻 React Native 💻 </li>
-</ul>
-
 
 </div>
 <br>
