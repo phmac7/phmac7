@@ -11,7 +11,7 @@
 <img align="right" src="assets/IMG_48489.jpg" alt="me!" width="350" height="350">
 
 
-<p> My name is Pedro, i'm 25 years old! 🏳️‍🌈</p>
+<p> Pedro, since 1997. 🏳️‍🌈</p>
 <p> Rio, Brazil 🍻</p>
 
 <h3> Hobbies 💜</h3>
