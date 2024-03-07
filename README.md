@@ -50,7 +50,7 @@
 <a href="[#](https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg)"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="70" alt ="React"></a>
 <a href="[#](https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg)"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="70" alt ="Typescript"></a>
 <a href="[#](https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg)"><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="70" alt ="Next"></a>
-    <a href="[#](https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg)"><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain-wordmark.svg" width="70" alt ="Tailwind"></a>
+    <a href="[#](https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg)"><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="70" alt ="Tailwind"></a>
     <a href="[#](https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg)"><img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" width="70" alt ="Graphql"></a>
 
 </div>
