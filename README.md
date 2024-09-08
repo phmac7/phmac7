@@ -21,7 +21,7 @@
     <li> 🎬 Movies </li>
     <li> 🎬 TV shows </li>
     <li> 👾 Animes </li>
-    <li> i also love pets! 😸</li>
+    <li> i also have two cats 😸</li>
 </ul>
 
 
