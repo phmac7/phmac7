@@ -63,6 +63,17 @@
 <table>
     <tr>
         <td>
+            <h3>Audiophile</h3>
+            <img src="assets/projects/audiophilegif.gif" width="580" align="top">
+            <img src="assets/projects/audiophilemobgif.gif" height="430">
+            <p><b>Multi-page website created with Nextjs + Contentful CMS</b></p>
+            <p><b>Nextjs, Contentful, typescript, graphql</b></p>
+            <a href='https://github.com/phmac7/audiophile'>Repository</a><br>
+            <a href='https://audiophile-drab.vercel.app/'>LIVE SITE</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
             <h3>Space Tourism</h3>
             <img src="assets/projects/space.gif" width="580" align="top">
             <img src="assets/projects/space-mob.gif" height="430">
