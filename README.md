@@ -14,10 +14,7 @@
 <p> Pedro, since 1997.</p>
 <p> Rio, Brazil </p>
 
-<ul>
-    <li>developer</li>
-</ul>
-
+<p>developer</p>
 
 </div>
 <br>
