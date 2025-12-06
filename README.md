@@ -8,7 +8,7 @@
 <br>
 <br>
 
-<img align="right" src="assets/IMG_48489.jpg" alt="me!" width="350" height="350">
+<img align="right" src="assets/perfil.jpeg" alt="me!" width="350" height="350">
 
 
 <p> Pedro, since 1997.</p>
@@ -33,7 +33,6 @@
 <h2 align="left">👨‍💻 Technologies 👨‍💻</h2>
 
 <div align="left">
-<img align="right" src= "assets/killua.webp" width="350" height="360">
 <br>
 <br>
 <a href="[#](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg)"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="70" alt ="html5"></a>
