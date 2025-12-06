@@ -8,7 +8,7 @@
 <br>
 <br>
 
-<img align="right" src="assets/perfil.jpeg" alt="me!" width="350" height="350">
+<img align="right" src="assets/perfil.jpeg" alt="me!" width="270" height="270">
 
 
 <p> Pedro, since 1997.</p>
