@@ -12,16 +12,10 @@
 
 
 <p> Pedro, since 1997.</p>
-<p> Rio, Brazil 🍻</p>
+<p> Rio, Brazil </p>
 
-<h3> Hobbies 💜</h3>
 <ul>
-    <li> 🎵 Music </li>
-    <li> 🎮 Games (RPG, open world, sandbox) </li>
-    <li> 🎬 Movies </li>
-    <li> 🎬 TV shows </li>
-    <li> 👾 Animes </li>
-    <li> i also have two cats 😸</li>
+    <li>developer</li>
 </ul>
 
 
