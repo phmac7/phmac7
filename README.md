@@ -17,9 +17,11 @@
 <p>developer</p>
 
 </div>
-<br>
-<br>
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <div>
 <h2 align="left">👨‍💻 Technologies 👨‍💻</h2>
 
